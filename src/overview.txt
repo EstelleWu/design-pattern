@@ -1,0 +1,5 @@
+behavioural: interaction or the communication among classes
+state, strategy, iterator, observer
+
+structural: relationship among classes
+composite, adapter

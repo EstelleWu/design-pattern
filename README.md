@@ -1,2 +1,2 @@
 # design-pattern
-## problem - solution - exericise 
+## problem - solution - exercise 
